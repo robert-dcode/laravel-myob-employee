@@ -1,5 +1,5 @@
 {
-  "name": "dcodegroup/laravel-xero-employee",
+  "name": "dcodegroup/laravel-myob-employee",
   "description": "This package provides base functionality for linking a user with Xero",
   "keywords": [
     "laravel",
@@ -25,8 +25,7 @@
   ],
   "require": {
     "php": "^7.4|^8.0",
-    "dcodegroup/laravel-xero-oauth": "^1.0",
-    "dcodegroup/laravel-xero-payroll-au": "^0.1",
+    "dcodegroup/laravel-myob-oauth": "dev-master",
     "laravel/framework": "^7.0 |^8.0"
   },
   "require-dev": {
